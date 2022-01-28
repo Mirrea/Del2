@@ -1,15 +1,12 @@
 package main
 
 import (
-	"fmt"
-	"rsc.io/quote"
+	"https://github.com/Mirrea/Del2/Myquotes"
 )
 
 func main() {
-
-	fmt.Println(quote.Go())
-	fmt.Println(quote.Hello())
-	fmt.Println(quote.Glass())
-	fmt.Println(quote.Opt())
-
+	Myquotes.Glass()
+	Myquotes.Go()
+	Myquotes.Hello()
+	Myquotes.Opt()
 }
