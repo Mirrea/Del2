@@ -1,7 +1,7 @@
 package main
 
 import (
-	"https://github.com/Mirrea/Del2/Myquotes"
+	"github.com/Mirrea/Del2/Myquotes"
 )
 
 func main() {
